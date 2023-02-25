@@ -1,0 +1,13 @@
+{
+	"gpus":"-1",
+	"gpu_platform":"1",
+	"gpu_mfg":"amd",
+	"intensity":10,
+	"host":"127.0.0.1",
+	"port":"3008",
+	"stratum_user":"WINDOWSTEST",
+	"stratum_pass":"test",
+	"wallet":"ts1qlt6qg2dyplg4xtgq2hpc0ek842w5vkrqpu9jjm",
+	"mode":"solo",
+	"poolDifficulty":10
+}
